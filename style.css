@@ -15,12 +15,11 @@
 }
 .secao-10{
 	text-align: center;
-	margin-top: 50px;
+	margin-top: 325px;
 }
 .limão {
-    display: inline;
     margin-left: -800px;
-	margin-top:10 px;
+	margin-top: 10px;
 }
 .limão a {
     margin-left: 20px;
@@ -35,8 +34,7 @@
     border-bottom: 2px solid rgb(74, 230, 126);
 }
 .morango {
-    margin-top: -16px;
-    margin-left: 800px;
+margin-top: -20px;    
 
 }
 .morango a{
@@ -47,28 +45,24 @@
 }
 .morango a:hover{
     color: red;
-    border-top:2px solid;A80C0C ;
-    border-bottom: 2px solid; A80C0C;
+    border-top:2px solid rgb(255,0,0);
+    border-bottom: 2px solid rgb(255, 0, 0);
 }
 
-.tradicional {
-    margin-top: -20px;
-    text-align: center;
+.marrom {
+   margin-top: -18px;
+   margin-left: 800px;
 
 }
-.tradiconal a {
+.marrom a{
     margin-left: 20px;
     text-decoration: none;
     font-weight: bold;
-    color: rgb(51, 25, 0);
+    color: rgb(153,73,0);
 }
 
-.tradicional a:hover {
-    color: brown;
-    border-top: 2px solid; burlywood ;
-    border-bottom: 2px solid; burlywood;
+.marrom a:hover {
+    color: rgb(153, 76, 0);
+    border-top: 2px solid rgb(153,73,0);
+    border-bottom: 2px solid rgb(153,73,0);
 }
- .body{
-    background-color: black;
- }
-
